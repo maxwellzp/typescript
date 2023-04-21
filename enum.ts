@@ -1,7 +1,7 @@
 enum OperationType {
-  DEPOSIT,
-  WITHDRAWAL,
-  TRANSFER,
+  DEPOSIT = "DEPOSIT",
+  WITHDRAWAL = "WITHDRAWAL",
+  TRANSFER = "TRANSFER",
 }
 
 enum OperationCode {

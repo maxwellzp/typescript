@@ -4,3 +4,4 @@ const user: [number, boolean, string, number[]] = [
   "support@gmail.com",
   [1, 2, 3, 4, 5],
 ];
+console.log(user);
